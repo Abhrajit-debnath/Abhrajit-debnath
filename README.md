@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **html,css,js,c**
+- 💬 Ask me about **html,css,js,express js, mongoDB c**
 
 - 📫 How to reach me **abhrajitdebnath.cs@gmail.com**
 
