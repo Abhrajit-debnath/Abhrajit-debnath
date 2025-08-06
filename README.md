@@ -1,10 +1,9 @@
-## Hi there! 👋
+# Abhrajit Debnath
 
-I'm **Abhrajit Debnath**, a passionate developer with a keen interest in building innovative applications and exploring new technologies. Always eager to learn and grow in the field of software development!
-
-## About Me
-
-Hi, I'm Abhrajit Debnath – a passionate Full-Stack Developer and aspiring Cloud Engineer from India 🇮🇳. I love building powerful and scalable web applications with clean architecture and great user experiences.
+```typescript
+const profile = {
+  name: "Abhrajit Debnath",
+  bio: "Hi, I'm Abhrajit Debnath – a passionate Full-Stack Developer and aspiring Cloud Engineer from India 🇮🇳. I love building powerful and scalable web applications with clean architecture and great user experiences.
 
 🔧 Currently building:
 
@@ -34,43 +33,141 @@ Blockchain & Web3: Truffle, Ganache, RainbowKit, Wagmi, IPFS
 
 🧪 Build unique, production-ready apps with proof-of-work
 
-💼 Prepare for off-campus placements with DSA + Projects + System Design
+💼 Preparing DSA + Projects + System Design",
+  currentWork: "🚀 Developing Zync – a real-time decentralized chat application using Next.js, Socket.IO, Wagmi, and Wallet-based Authentication.
 
+🧰 Finalizing Cloud Toolbox – a full-stack project for managing cloud workflows and tools efficiently.
 
+🛠️ Contributing to building better dev workflows and secure, scalable real-time systems.",
+  learning: "🧠 Deepening understanding of Distributed Systems, WebSocket architecture, and secure routing in dApps.
 
-## Skills & Technologies
+🦾 Mastering stateful real-time messaging, Redis socket mapping, and Reconnect + Retry strategies.
 
-react,express,mongodb,nodejs,tailwind,nextjs,aws,docker,linux,redis,firebase,supabase
+⚡ Exploring Next.js advanced layouts, Edge Functions, and secure upload mechanisms with free-tier services.
 
-## Top Projects
+📦 Building modular, scalable backend systems using Express, JWT, and MongoDB integration with Next.j",
+  interests: "💬 Real-time Web Applications & Decentralized Communication
 
-💬 Zync – Decentralized Chat App
-A real-time private messaging dApp using wallet authentication and WebSocket communication.
-Tech Stack: Next.js, Socket.IO, Express, MongoDB, Wagmi, RainbowKit, Redis
+🌐 Full-stack Engineering with Next.js,Node.js,and MongoDB
 
-📌 Features: Wallet-based Auth, Socket Reconnection, Real-time Messaging, File Uploads
+🔒 Cloud Security,JWT,OAuth,and Privacy-focused App Design
 
-## GitHub Stats
+📡 WebSockets,Redis,and Scalable Messaging Infrastructure
 
-### GitHub Stats  
-- 🔭 **Public Repositories:** 35  
-- 👥 **Followers:** 3  
-- 👤 **Following:** 5  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhrajit-debnath&show_icons=true&theme=radical)
+🛠️ DevTool Creation,CLI Design,and Dashboard Interfaces
 
-## Recent Activity
+☁️ Docker,Web3,and Infrastructure-as-Code (IaC)
 
-### Recent Activity  
-- **Pushed to [anihub-ui](https://github.com/Abhrajit-debnath/anihub-ui)**: updated README.md  on 2025-08-03  
-- **Pushed to [anihub-ui](https://github.com/Abhrajit-debnath/anihub-ui)**: fetch data from API on 2025-08-04  
-- **Pushed to [Zync-decentralized-chatting-app](https://github.com/Abhrajit-debnath/Zync-decentralized-chatting-app)**: Disable ESLint during Vercel build on 2025-07-19  
-- **Pushed to [Zync-decentralized-chatting-app](https://github.com/Abhrajit-debnath/Zync-decentralized-chatting-app)**: Downgrade React for compatibility on 2025-07-19  
-- **Pushed to [Portfolio-Website](https://github.com/Abhrajit-debnath/Portfolio-Website)**: Updated portfolio content on 2025-04-01
+🎯 Open Source Collaboration and Building Developer-first Products",
+  skills: [
+    "React",
+    "Next.js",
+    "Tailwind",
+    "CSS3",
+    "HTML5",
+    "Bootstrap",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Redis",
+    "AWS",
+    "Docker",
+    "JavaScript",
+    "TypeScript"
+  ],
+}
+```
 
-## Latest Blog Posts
+## 🔭 I'm currently working on
 
-### Latest Blog Posts  
-Currently, I do not have any blog posts. Stay tuned for updates!
+🚀 Developing Zync – a real-time decentralized chat application using Next.js, Socket.IO, Wagmi, and Wallet-based Authentication.
 
-## Connect with Me
+🧰 Finalizing Cloud Toolbox – a full-stack project for managing cloud workflows and tools efficiently.
 
+🛠️ Contributing to building better dev workflows and secure, scalable real-time systems.
+
+## 🌱 I'm currently learning
+
+🧠 Deepening understanding of Distributed Systems, WebSocket architecture, and secure routing in dApps.
+
+🦾 Mastering stateful real-time messaging, Redis socket mapping, and Reconnect + Retry strategies.
+
+⚡ Exploring Next.js advanced layouts, Edge Functions, and secure upload mechanisms with free-tier services.
+
+📦 Building modular, scalable backend systems using Express, JWT, and MongoDB integration with Next.j
+
+## 👀 I'm interested in
+
+💬 Real-time Web Applications & Decentralized Communication
+
+🌐 Full-stack Engineering with Next.js, Node.js, and MongoDB
+
+🔒 Cloud Security, JWT, OAuth, and Privacy-focused App Design
+
+📡 WebSockets, Redis, and Scalable Messaging Infrastructure
+
+🛠️ DevTool Creation, CLI Design, and Dashboard Interfaces
+
+☁️ Docker, Web3, and Infrastructure-as-Code (IaC)
+
+🎯 Open Source Collaboration and Building Developer-first Products
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "Next.js",
+    "Tailwind",
+    "CSS3",
+    "HTML5",
+    "Bootstrap"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Redis"
+  ],
+  "devops": [
+    "AWS",
+    "Docker"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  linkedin: "abhrajit-debnath-ad2005",
+  twitter: "AbhrajitD18535",
+  website: "https://abhrajit-debnathdev.vercel.app/",
+  instagram: "abhrajit.sh",
+  leetcode: "Abhrajit_Dev",
+}
+```
+
+<div>
+<a href="https://abhrajit-debnathdev.vercel.app/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://x.com/AbhrajitD18535"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abhrajit-debnath-ad2005"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/abhrajit.sh"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://leetcode.com/u/Abhrajit_Dev"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "abhrajitdebnath.cs@gmail.com",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
