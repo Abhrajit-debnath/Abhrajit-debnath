@@ -80,7 +80,7 @@ Blockchain & Web3: Truffle, Ganache, RainbowKit, Wagmi, IPFS
 
 ## 🔭 I'm currently working on
 
-🚀 Developing Zync – a real-time decentralized chat application using Next.js, Socket.IO, Wagmi, and Wallet-based Authentication.
+🚀 Developing Zync – a real-time decentralized chat application using Next.js, Socket.IO, Wagmi, and Wallet-based Authentication. [Zync Link](https://zync-decentralized-chatting-app.vercel.app/)
 
 🧰 Finalizing Cloud Toolbox – a full-stack project for managing cloud workflows and tools efficiently.
 
