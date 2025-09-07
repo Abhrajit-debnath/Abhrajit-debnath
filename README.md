@@ -7,7 +7,7 @@ const profile = {
 
 🔧 Currently building:
 
-DriftLink - a A file sharing + sync tool where users can transfer files offline via QR codes, and once internet is available, the files automatically sync online to cloud storage.
+DriftLink - a file sharing + sync tool where users can transfer files offline via QR codes, and once internet is available, the files automatically sync online to cloud storage.
 
 Cloud Toolbox – an all-in-one cloud resource manager
 
