@@ -47,22 +47,6 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮�
 
 ---
 
-### 🔹 DriftLink — Offline-First File Sharing *(In Progress)*
-
-* Share files **offline via QR codes**
-* Automatic **cloud sync when internet is available**
-* Designed for reliability and seamless cross-device transfer
-
----
-
-### 🔹 Cloud Toolbox — Cloud Resource Manager
-
-* Centralized dashboard for managing cloud workflows
-* Built as a **developer productivity tool**
-* Focus on modular backend design and clean UI
-
----
-
 ## 🧠 Currently Learning
 
 * Distributed Systems fundamentals
