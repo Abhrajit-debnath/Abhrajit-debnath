@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮🇳 with a strong interest in **Cloud, Distributed Systems, and Real-Time Applications**. I enjoy building scalable, developer-focused products with clean architecture, performance in mind, and a great user experience.
+I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮🇳 with a strong interest in **Cloud, and Real-Time Applications**. I enjoy building scalable, developer-focused products with clean architecture, performance in mind, and a great user experience.
 
 🎓 **BCA (Cloud Security)** — Amity University Online *(Graduating 2026)*
-📚 Preparing for **MCA (2026–2028)** to strengthen core CS fundamentals and target top-tier product companies.
+📚 Preparing for **MCA (2026–2028)** to strengthen core CS fundamentals and target top-tier companies.
 
 ---
 
@@ -64,7 +64,7 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮�
 * Cloud security, JWT, OAuth, privacy-first design
 * WebSockets, Redis, scalable backend systems
 * Developer tools, dashboards, and CLIs
-* Docker, Web3, and Infrastructure-as-Code
+* Docker, cloud fundamentals
 
 ---
 
@@ -86,7 +86,7 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮�
 
 * Docker
 * GitHub Actions (CI/CD basics)
-* AWS & GCP (foundational)
+* AWS (foundational)
 
 ### Languages
 
