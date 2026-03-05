@@ -42,7 +42,7 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India ðŸ‡®ð
 * Implemented queue generation and managing queue.
 * implemented load testing and rate limiting.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+**Tech Stack:** Node.js, Express.js, MongoDB, express-rate-limiter, helmet security.
 
 ---
 
