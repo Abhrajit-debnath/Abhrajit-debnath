@@ -18,7 +18,6 @@
 I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮🇳 with a strong interest in **Cloud, and Real-Time Applications**. I enjoy building scalable, developer-focused products with clean architecture, performance in mind, and a great user experience.
 
 🎓 **BCA (Cloud Security)** — Amity University Online *(Graduating 2026)*
-📚 Preparing for **MCA (2026–2028)** to strengthen core CS fundamentals and target top-tier companies.
 
 ---
 
@@ -36,12 +35,12 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮�
 
 ---
 
-### 🔹 EMS — Employee Management System
+### 🔹 Queue Management System
 
-* Full-stack web application for managing employees, roles, and records
-* Implemented secure authentication and CRUD operations
-* Built responsive dashboards with reusable components
-* Designed RESTful APIs and optimized database interactions
+* Backend-first web application for managing owner, staff, and appointements.
+* Implemented secure role-based authentication and CRUD operations.
+* Implemented queue generation and managing queue.
+* implemented load testing and rate limiting.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
