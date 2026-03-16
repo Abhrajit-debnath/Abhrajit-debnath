@@ -52,6 +52,7 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India ðŸ‡®ð
 * WebSocket architecture & real-time scalability
 * Redis-based socket mapping & retry strategies
 * Secure routing & auth in dApps
+* Learning rust currently
 * Next.js advanced features (App Router, Edge Functions)
 
 ---
