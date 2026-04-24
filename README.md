@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhrajit Debnath
 
 <p align="center">
-  <b>Full-Stack Developer | Aspiring Cloud Engineer | Builder of Developer-First Products</b>
+  <b>Full-Stack Developer | Aspiring Cloud Engineer
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ I'm **Abhrajit Debnath**, a passionate **Full-Stack Developer** from India 🇮�
 * Distributed Systems fundamentals
 * WebSocket architecture & real-time scalability
 * Redis-based socket mapping & retry strategies
-* Secure routing & auth in dApps
+* Secure routing & auth
 * Next.js advanced features (App Router, Edge Functions)
 
 ---
